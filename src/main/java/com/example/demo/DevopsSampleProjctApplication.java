@@ -8,7 +8,7 @@ public class DevopsSampleProjctApplication {
 
 	public static void main(String[] args) {
 		
-		//Sample comment
+		System.out.println("test");
 		SpringApplication.run(DevopsSampleProjctApplication.class, args);
 	}
 
